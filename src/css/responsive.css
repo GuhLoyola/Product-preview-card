@@ -1,0 +1,19 @@
+@media(max-width:425px) {
+    .card {
+        grid-template-columns: 1fr;
+    }
+    
+    .product-image img {
+        max-height: 450px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .product-info {
+        display: block;
+    }
+
+    .name, .prod-title, .prod-description, .prod-price {
+        padding-bottom: 23px;
+    }
+}

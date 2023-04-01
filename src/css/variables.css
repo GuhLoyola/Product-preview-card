@@ -1,0 +1,7 @@
+:root {
+    --button-background: hsl(158, 36%, 37%);
+    --main-background: hsl(30, 38%, 92%);
+    --main-description: hsl(228, 12%, 48%);
+    --main-heading: hsl(212, 21%, 14%);
+    --card-background: #ffffff;
+}
